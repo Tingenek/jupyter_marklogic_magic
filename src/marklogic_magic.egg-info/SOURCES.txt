@@ -1,0 +1,12 @@
+MANIFEST.in
+NEWS.txt
+README.rst
+setup.py
+src/marklogic_magic/__init__.py
+src/marklogic_magic/connection.py
+src/marklogic_magic/magic.py
+src/marklogic_magic.egg-info/PKG-INFO
+src/marklogic_magic.egg-info/SOURCES.txt
+src/marklogic_magic.egg-info/dependency_links.txt
+src/marklogic_magic.egg-info/not-zip-safe
+src/marklogic_magic.egg-info/top_level.txt

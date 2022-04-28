@@ -1,0 +1,19 @@
+.. This is your project NEWS file which will contain the release notes.
+
+News
+====
+
+0.1
+-----
+
+*Release date: UNRELEASED*
+
+* Added variable expansion, sql mode.
+* First version
+
+0.2
+-----
+
+* changed %%marklogic to %%ml_fetch
+* Support for destination var and parsed arg string
+* Added %%ml_search
